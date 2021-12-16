@@ -6,9 +6,12 @@ Professional developer in HTML5, JavaScript / React, PHP and web technologies su
 Experience as freelance, business owner, manager in information technology, server administration and multimedia creator with experiences in education as professor and trainer.
 Award winning Graphic Designer and 3D Artist specializing in modeling, animation, rendering and mixed reality. LinkedIn profile at https://www.linkedin.com/in/passariello 
 
+My website: https://dario.passariello.ca
+
 ## Development Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-006b98?logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-006b98?logo=Javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-006b98?logo=PHP&logoColor=white)
 ![React](https://img.shields.io/badge/React-006b98?logo=React&logoColor=white)
 ![VueJS](https://img.shields.io/badge/VueJS-006b98?logo=VueJS&logoColor=white)
 ![SSR](https://img.shields.io/badge/SSR-006b98?logo=SSR&logoColor=white)
