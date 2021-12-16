@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Dario Passariello
+### Dario Passariello 👋
 
 Professional developer in HTML5, JavaScript / React, PHP and web technologies such as WebGL and 3D on a browser. Excellent knowledge of multimedia fields such as web, illustration, publishing and multimedia productions. Developer using Virtual Server and Docker ( docker-file and docker-compose ) for setting up a local Linux server or AWS, Azure and Google Cloud.
 Experience as freelance, business owner, manager in information technology, server administration and multimedia creator with experiences in education as professor and trainer.
@@ -23,6 +21,7 @@ My website: https://dario.passariello.ca
 ![SASS](https://img.shields.io/badge/SASS-006b98?logo=SASS&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-006b98?logo=VisualStudioCode&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-006b98?logo=Jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-006b98?logo=ClickUp&logoColor=white)
 ![MySql](https://img.shields.io/badge/MYSQL-006b98?logo=mysql&logoColor=white)
 ![SqlLite](https://img.shields.io/badge/SqlLite-006b98?logo=SqlLite&logoColor=white)
 ![NoSql](https://img.shields.io/badge/NoSql-006b98?logo=NoSql&logoColor=white)
