@@ -20,15 +20,28 @@ My website: https://dario.passariello.ca
 ![CSS](https://img.shields.io/badge/CSS3-006b98?logo=CSS3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-006b98?logo=SASS&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-006b98?logo=VisualStudioCode&logoColor=white)
+![NotePad++](https://img.shields.io/badge/NotePad++-006b98?logo=NotePad++&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-006b98?logo=Jira&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-006b98?logo=ClickUp&logoColor=white)
 ![MySql](https://img.shields.io/badge/MYSQL-006b98?logo=mysql&logoColor=white)
 ![SqlLite](https://img.shields.io/badge/SqlLite-006b98?logo=SqlLite&logoColor=white)
 ![NoSql](https://img.shields.io/badge/NoSql-006b98?logo=NoSql&logoColor=white)
 ![Json](https://img.shields.io/badge/Json-006b98?logo=Json&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-006b98?logo=VirtualBox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-006b98?logo=Docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-006b98?logo=Apache&logoColor=white)
+![NginX](https://img.shields.io/badge/NginX-006b98?logo=NginX&logoColor=white)
+![NodeJs](https://img.shields.io/badge/NodeJs-006b98?logo=NodeJs&logoColor=white)
+
 ![Project Management](https://img.shields.io/badge/Project_Management-006b98?logoColor=white)
 ![Software Architecture](https://img.shields.io/badge/Software_Architecture-006b98?logoColor=white)
 ![Team Lead](https://img.shields.io/badge/Team_Lead-006b98?logoColor=white)
+
+## OS
+![UNIX](https://img.shields.io/badge/UNIX-006b98?logoColor=white)
+![LINUX](https://img.shields.io/badge/LINUX-006b98?logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-006b98?logoColor=white)
+![Mac](https://img.shields.io/badge/Mac-006b98?logoColor=white)
 
 ## Design 2D Skills
 ![UI-UX](https://img.shields.io/badge/UI-UX-006b98?logo=UI-UX&logoColor=white)
@@ -48,7 +61,6 @@ My website: https://dario.passariello.ca
 [<img align="left" alt="linked-in" style="margin-bottom:12px;" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/passariello/)
 
 [<img align="left" alt="twitter" style="margin-bottom:12px;" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/passariello)
-
 
 <!--
 **passariello/passariello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
