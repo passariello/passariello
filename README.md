@@ -32,6 +32,7 @@ My website: https://dario.passariello.ca
 ![Apache](https://img.shields.io/badge/Apache-006b98?logo=Apache&logoColor=white)
 ![NginX](https://img.shields.io/badge/NginX-006b98?logo=NginX&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/NodeJs-006b98?logo=NodeJs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-006b98?logo=NPM&logoColor=white)
 
 ![Project Management](https://img.shields.io/badge/Project_Management-006b98?logoColor=white)
 ![Software Architecture](https://img.shields.io/badge/Software_Architecture-006b98?logoColor=white)
