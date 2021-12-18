@@ -7,6 +7,7 @@ Award winning Graphic Designer and 3D Artist specializing in modeling, animation
 My website: https://dario.passariello.ca
 
 LinkedIn: https://www.linkedin.com/in/passariello
+
 NPM: https://www.npmjs.com/~passariello
 
 ## Development Skills
