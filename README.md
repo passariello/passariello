@@ -57,11 +57,12 @@ NPM: https://www.npmjs.com/~passariello
 ![CorelDraw](https://img.shields.io/badge/CorelDraw-006b98?logo=CorelDraw&logoColor=white)
 
 ## Design 3D Skills
-![ThreeJS](https://img.shields.io/badge/ThreeJS-006b98?logo=ThreeJS&logoColor=white)
-![3dsMax](https://img.shields.io/badge/3dsMax-006b98?logo=3dsMax&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/ThreeJS?logo=ThreeJS&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3dsMax?logo=3dsMax&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-006b98?logo=Maya&logoColor=white)
-![Fusion360](https://img.shields.io/badge/Fusion360-006b98?logo=Fusion360&logoColor=white)
-![Mudbox](https://img.shields.io/badge/Mudbox-006b98?logo=Mudbox&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion360?logo=Fusion360&logoColor=white)
+![Mudbox](https://img.shields.io/badge/Mudbox?logo=Mudbox&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender?logo=Blender&logoColor=white)
 
 [<img align="left" alt="linked-in" style="margin-bottom:12px;" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/passariello/)
 
