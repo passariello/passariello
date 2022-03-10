@@ -4,9 +4,6 @@ Professional developer in HTML5, JavaScript / React, PHP and web technologies su
 Experience as freelance, business owner, manager in information technology, server administration and multimedia creator with experiences in education as professor and trainer.
 Award winning Graphic Designer and 3D Artist specializing in modeling, animation, rendering and mixed reality.  
 
-[:heart: Sponsor](https://github.com/sponsors/passariello)
-
-
 📫 Email: dariopassariello@gmail.com
 
 🌐 My website: https://dario.passariello.ca
@@ -14,6 +11,10 @@ Award winning Graphic Designer and 3D Artist specializing in modeling, animation
 🌐 LinkedIn: https://www.linkedin.com/in/passariello
 
 🌐 NPM: https://www.npmjs.com/~passariello
+
+## Support me!
+
+[:heart: Sponsor](https://github.com/sponsors/passariello)
 
 ## ⚡ Development Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-006b98?logo=TypeScript&logoColor=white)
