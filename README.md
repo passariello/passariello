@@ -1,6 +1,6 @@
 ### ⚡ Dario Passariello 👋
 
-Professional developer in HTML5, JavaScript / React, PHP and web technologies such as WebGL and 3D on a browser. Excellent knowledge of multimedia fields such as web, illustration, publishing and multimedia productions. Developer using Virtual Server and Docker ( docker-file and docker-compose ) for setting up a local Linux server or AWS, Azure and Google Cloud.
+Professional developer for Web Application and web technologies such as WebGL and 3D on a browser. Excellent knowledge of multimedia fields such as web, illustration, publishing and multimedia productions. Developer using Virtual Server and Docker ( docker-file and docker-compose ) for setting up a local Linux server or AWS, Azure and Google Cloud.
 Experience as freelance, business owner, manager in information technology, server administration and multimedia creator with experiences in education as professor and trainer.
 Award winning Graphic Designer and 3D Artist specializing in modeling, animation, rendering and mixed reality.  
 
