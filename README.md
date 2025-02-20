@@ -4,7 +4,7 @@ Professional developer for Web Application and web technologies such as WebGL an
 Experience as freelance, business owner, manager in information technology, server administration and multimedia creator with experiences in education as professor and trainer.
 Award winning Graphic Designer and 3D Artist specializing in modeling, animation, rendering and mixed reality.  
 
-My best project: https://biglogic-organization.gitbook.io/dphelper-devtools
+My best project: https://passariello.gitbook.io/dphelper-devtools
 
 📫 Email: dariopassariello@gmail.com
 
