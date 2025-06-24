@@ -40,7 +40,7 @@ I’m open to collaborations on AI products, web apps, or anything that pushes b
 
 - 📨 dariopassariello@gmail.com  
 - 🌐 [dario.passariello.ca](https://dario.passariello.ca)  
-- 🐦 [@a51dotdev](https://twitter.com/a51dotdev)  
+- 🐦 [@passaariello](https://twitter.com/passariello)  
 
 ---
 
