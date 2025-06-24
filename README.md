@@ -29,8 +29,9 @@ From microservices to machine learning and immersive 3D experiences, I thrive wh
 - IBM GenAI + Agent Design Certified  
 - Autodesk 3ds Max Master (2008)  
 - AUGI Community Service Award (2012)  
-- Autodesk Certified Instructor  
-- Microsoft/Fusion 360/.NET Certifications  
+- Autodesk Certified Instructor
+- Autodesk Fusion 360
+- Microsoft .NET 
 
 ---
 
