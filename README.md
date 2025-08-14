@@ -15,14 +15,14 @@ From microservices to machine learning and immersive 3D experiences, I thrive wh
 
 ## My Projects
 
-[BigLogic](https://github.com/BigLogic-ca)
-[ug3D](https://github.com/ug3D)
-[edu4work](https://github.com/edu4work)
-[Picla](https://github.com/picla-net)
-[a51](https://github.com/a51-dev)
-[digital3D.it](https://github.com/digital3d-it)
-[infoPalermo](https://github.com/infopalermo)
-[passariello](https://github.com/passariello-ca)
+- [BigLogic](https://github.com/BigLogic-ca)
+- [ug3D](https://github.com/ug3D)
+- [edu4work](https://github.com/edu4work)
+- [Picla](https://github.com/picla-net)
+- [a51](https://github.com/a51-dev)
+- [digital3D.it](https://github.com/digital3d-it)
+- [infoPalermo](https://github.com/infopalermo)
+- [passariello](https://github.com/passariello-ca)
 
 ---
 
