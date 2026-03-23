@@ -15,18 +15,21 @@ From microservices to machine learning and immersive 3D experiences, I thrive wh
 
 ## 🛠️ Core Skills
 
-- **Full-Stack Dev**: React, Node.js, PHP, TypeScript, ejs, Next.js  
+- **Full-Stack Dev**: React, Node.js, PHP, JQuery, TypeScript, ejs, Next.js  
 - **SaaS & Cloud**: Azure, AWS, Docker, CI/CD, REST/gRPC APIs  
 - **AI/ML**: LLMs, RAG pipelines, metadata-driven agents, Stable Diffusion  
 - **3D & UI/UX**: Three.js, WebGL, Autodesk Suite, Figma, Photoshop  
 - **Environments**: LAMP, MERN, .NET, Linux, Firebase  
-- **Tools of the Trade**: GitLab Pipelines, Selenium, Postman, ESLint
+- **Tools of the Trade**: GitLab Pipelines
+- **QA / tests**: Playwright, Postman, ESLint, Jest, Typescript
+- **Build**: Vite, ESbuild, TSup, Webpack
 
 ---
 
 ## 🎓 Certifications & Awards
 
-- IBM GenAI + Agent Design Certified  
+- IBM GenAI + Agent Design Certified
+- Google Developer Program, 25+ certs and badges
 - Autodesk 3ds Max Master (2008)  
 - AUGI Community Service Award (2012)  
 - Autodesk Certified Instructor
