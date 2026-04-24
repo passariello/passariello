@@ -7,9 +7,15 @@ _Calgary, AB • [Portfolio](https://dario.passariello.ca) • [LinkedIn](https:
 
 ## 🚀 About Me
 
-Hey there, I’m Dario, a full-stack technologist with a mission to build smarter, more beautiful, and forward-thinking software. With over 25+ years of experience, I specialize in cloud-native SaaS platforms, AI integrations, and next-gen web interfaces that blur the lines between design and code.
+My career hasn't been a straight line, and that's exactly where my value lies. I’ve spent years bridging two worlds: the extreme agility of startups and the structured rigor of large enterprises.
 
-From microservices to machine learning and immersive 3D experiences, I thrive where complexity meets creativity. Whether I’m leading architecture or rolling up my sleeves to prototype cutting-edge features, I build with precision, passion, and purpose.
+In startups, I learned to be a 360 degree problem solver. In fast-growth environments, there’s no room for bureaucracy; you must turn ideas into solid products in record time. I sharpened my ability to navigate chaos, choosing the right technologies to scale without creating technical debt.
+
+A key pillar of my profile is the ability to constantly evolve. I don’t limit myself to what I already know; I’ve developed a proven method for mastering new languages and frameworks quickly. Whether adopting new tools or stepping into an unfamiliar ecosystem, I become productive almost immediately, turning curiosity into practical expertise.
+
+I brought this pragmatic mindset to tech giants, where I mastered true scalability. I’ve navigated microservices, robust architectures, and high security standards, ensuring that my code isn't just functional, but maintainable for large teams and reliable over time.
+
+What do I bring to the table? Technical maturity and an analytical mindset forged in the intelligence sector. I analyze risks and architecture before writing a single line. I am a senior professional who knows when to move fast and when to build foundations of steel, helping companies turn software into a strategic asset through speed, agility, and a results by driven vision.
 
 ---
 
