@@ -1,6 +1,6 @@
 # 👨‍🚀 Dario Passariello
 
-**CTO | Sr. Application Developer | SaaS Architect | AI + 3D Specialist**  
+**Software Application Developer | SaaS | AI | 3D Specialist**  
 _Calgary, AB • [Portfolio](https://dario.passariello.ca) • [LinkedIn](https://www.linkedin.com/in/passariello) • [GitHub](https://github.com/passariello)_
 
 ---
